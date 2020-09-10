@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingRight="10dp">
+
+    <ImageButton
+        android:id="@+id/detail_bookmark_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_bookmark_border_red_24dp"
+        android:background="@color/white"
+        android:scaleType="fitCenter"/>
+
+    <ImageButton
+        android:id="@+id/detail_twitter_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/bluetwitter"
+        android:background="@color/white"
+        android:scaleType="fitCenter" />
+</LinearLayout>
