@@ -3,10 +3,7 @@ This is a news website mobile app build using Android Studio.
 Codes are written in java.  
 Backend was built with Node.js using express framework.   
 
-<img src="Homepage.PNG" width=20% height=20%/>
-<img src="Headlines.PNG" width=20% height=20%/>
-<img src="Trending.PNG" width=20% height=20%/>
-<img src="Bookmark.PNG" width=20% height=20%/>
+<img src="Homepage.png" width=20% height=20%/> <img src="Headlines.png" width=20% height=20%/> <img src="Trending.png" width=20% height=20%/> <img src="Bookmark.png" width=20% height=20%/>
 
 ## Table of Contents
 - [Prerequisites](#Prerequisites)
