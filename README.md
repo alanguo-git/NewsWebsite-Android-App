@@ -10,6 +10,7 @@ Backend was built with Node.js using express framework.
 - [Installation](#Installation)
 - [Rebuild-project](#Rebuild-project)
 - [Features](#Features)
+- [Third Party libraries](#Third-Party-libraries)
 
 ## Prerequisites
 - Node.js  
